@@ -31,15 +31,15 @@ void setup() {
 }
 
 void loop() {
-  move(1,255,1);
-  move(2,255,0);
+  //move(1,255,1);
+  //move(2,255,0);
 
-  delay(1000);
-  stop();
-  delay(250);
+  //delay(1000);
+  //stop();
+  //delay(250);
 
-  move(1,128,0);
-  move(2,128,1);
+  move(1,128,1);
+  move(2,128,0);
 
   delay(1000);
   stop();
